@@ -42,3 +42,4 @@
 2. Make the nav menu build programmatically 
 3. Make the `steps` in the second section of the body build programmatically
 4. Clean up margin/padding sizes
+5. Add a intro loader
